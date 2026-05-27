@@ -32,6 +32,7 @@ let precoLivros = [
      {
         titulo: "A arte da guerra                       ",
         preco: 48.40
+
     },
      {
         titulo: "A queda do morcego                     ",
